@@ -36,8 +36,8 @@ OrangeHRM-QA-Assessment/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/OrangeHRM-QA-Assessment.git
-cd OrangeHRM-QA-Assessment
+git clone https://github.com/RafiaTariq123/AccuKnox-user-management-tests.git
+cd AccuKnox-user-management-tests
 
 # 2. Install dependencies
 npm install
