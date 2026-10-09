@@ -1,4 +1,4 @@
-# OrangeHRM QA Assessment — System User Management
+# OrangeHRM — System User Management
 
 Automated end-to-end tests for the **Admin → System Users** module on [OrangeHRM Demo](https://opensource-demo.orangehrmlive.com/).
 
